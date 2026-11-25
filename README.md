@@ -1,12 +1,11 @@
 ### Hi, I'm Supriya 👋
 
-**Full-stack engineer and technical leader** — React to Kafka to production monitoring.
+**Full-stack engineer and technical leader**
 
 I build 0-to-1 products, fast search and streaming systems, and LLM pipelines, and I help teams ship them reliably.
 
 🔭 Currently: RAG-powered payments engine at Glix
-🔎 Building: [OppPulse AI](https://github.com/YOUR-GITHUB-USERNAME/opppulse-ai), semantic opportunity search in under 100ms
-🌐 Portfolio: https://YOUR-GITHUB-USERNAME.github.io
+🌐 Portfolio:  https://supriyapolepalli.github.io/supriya-polepalli.github.io/
 💼 [LinkedIn](https://linkedin.com/in/supriyapolepalli) · ✉️ priyapolepalli30@gmail.com
 
 **Stack**
